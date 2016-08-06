@@ -1,0 +1,3 @@
+# MongoDB
+
+* brew install mongodb
